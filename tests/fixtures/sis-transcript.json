@@ -1,0 +1,58 @@
+{
+  "url": "https://sisuva.admin.virginia.edu/psp/ihprd/UVSS/SA/s/WEBLIB_HCX_GN.H_DASHBOARD.FieldFormula.IScript_Main",
+  "terms": [
+    { "strm": "1262", "descr": "2026 Spring" },
+    { "strm": "1268", "descr": "2026 Fall" }
+  ],
+  "enrollments": {
+    "1262": {
+      "enrollments": [
+        { "subject": "SPAN", "catalog_nbr": "1010", "class_nbr": "11111", "descr": "Elementary Spanish", "units_attempted": "4.00", "units_earned": "0.00", "grade": "F" },
+        { "subject": "HIUS", "catalog_nbr": "2001", "class_nbr": "11112", "descr": "American History to 1865", "units_attempted": 3, "units_earned": 3, "grade": "B+" },
+        { "subject": "PHYS", "catalog_nbr": "1010", "class_nbr": "11113", "descr": "Physics for Poets", "units_attempted": "3.00", "units_earned": "0.00", "grade": "W" }
+      ]
+    },
+    "1268": {
+      "enrollments": [
+        { "subject": "SPAN", "catalog_nbr": "1010", "class_nbr": "12001", "descr": "Elementary Spanish", "units_attempted": "4.00", "units_earned": "0.00", "grade": "" },
+        { "subject": "COMM", "catalog_nbr": "1800", "class_nbr": "12002", "descr": "Foundations of Commerce", "units_attempted": "3.00", "units_earned": "0.00", "grade": "" },
+        { "subject": "EGMT", "catalog_nbr": "1520", "class_nbr": "12003", "descr": "Empirical & Scientific Engagement", "crse_topic": "Reading the Climate", "units_attempted": 2, "units_earned": 0, "grade": "" },
+        { "subject": "EGMT", "catalog_nbr": "1520", "class_nbr": "12004", "descr": "Empirical & Scientific Engagement", "crse_topic": "Numbers and Noise", "units_attempted": 2, "units_earned": 0, "grade": "" },
+        { "subject": "MATH", "catalog_nbr": "1310", "class_nbr": "12005", "descr": "Calculus I", "units_attempted": "4.00", "units_earned": "0.00", "grade": "" }
+      ]
+    }
+  },
+  "test": {
+    "test_credit": {
+      "programs": [
+        {
+          "terms": [
+            {
+              "strm": "1268",
+              "descr": "2026 Fall",
+              "tests": [
+                { "course": "MATH 1310", "course_title": "Calculus I", "attempted": "4.00", "earned": "4.00", "grade": "TE" },
+                { "course": "HIST 1000T", "course_title": "Generic History Credit", "attempted": 3, "earned": 3, "grade": "TE" },
+                { "course": "SPAN 3010P", "course_title": "Spanish Placement", "attempted": 0, "earned": 0, "grade": "" },
+                { "course": "MATH 1000P", "course_title": "Math Placement", "attempted": 0, "earned": 0, "grade": "" },
+                { "course": "CS 1000T", "course_title": "Computer Science Credit", "attempted": "0.00", "earned": "0.00", "grade": "" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "transfer": {},
+  "programs": {
+    "terms": [
+      { "programs": [ { "acad_prog_descr": "Arts & Sciences Undergraduate", "plans": [ { "acad_plan_descr": "Undeclared" } ] } ] }
+    ]
+  },
+  "scores": [
+    { "descr": "AP - Calculus AB", "score": 5 },
+    { "descr": "AP - Computer Science Principles", "score": "5" },
+    { "descr": "Housing deposit", "score": 1 }
+  ],
+  "raw_terms": { "enrollment_terms": [] }
+}

@@ -1,0 +1,5 @@
+Contact: https://github.com/Zrk1212/hoos-planner/issues
+Expires: 2027-10-21T00:00:00Z
+Preferred-Languages: en
+Canonical: https://hoosplanner.zrk.ventures/.well-known/security.txt
+Policy: https://hoosplanner.zrk.ventures/security

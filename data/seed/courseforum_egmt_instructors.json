@@ -1,0 +1,2449 @@
+{
+ "1510": [
+  {
+   "name": "To Announced",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "3.0",
+   "diff": "2.5",
+   "gpa": "\u2014",
+   "path": "/course/12842/12448/"
+  },
+  {
+   "name": "Demetia Hopkins",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12842/13214/"
+  },
+  {
+   "name": "Kathryn Bennington",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "2.0",
+   "gpa": "3.97",
+   "path": "/course/12842/11953/"
+  },
+  {
+   "name": "Austin Benson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12842/12053/"
+  },
+  {
+   "name": "Francesca Borrione",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.99",
+   "path": "/course/12842/12119/"
+  },
+  {
+   "name": "Eli Carter",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.3",
+   "diff": "1.5",
+   "gpa": "3.97",
+   "path": "/course/12842/4977/"
+  },
+  {
+   "name": "Jeffry Casey",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.5",
+   "gpa": "3.97",
+   "path": "/course/12842/14070/"
+  },
+  {
+   "name": "Dave Dalton",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.5",
+   "gpa": "3.96",
+   "path": "/course/12842/8073/"
+  },
+  {
+   "name": "Francesca Fiorani",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.5",
+   "gpa": "3.73",
+   "path": "/course/12842/137/"
+  },
+  {
+   "name": "Laura Goldblatt",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12842/1079/"
+  },
+  {
+   "name": "Ben Jameson-Ellsmore",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.3",
+   "diff": "3.0",
+   "gpa": "3.97",
+   "path": "/course/12842/13693/"
+  },
+  {
+   "name": "R. Kennedy",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.85",
+   "path": "/course/12842/8069/"
+  },
+  {
+   "name": "Mary Kuhn",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.0",
+   "gpa": "3.90",
+   "path": "/course/12842/6902/"
+  },
+  {
+   "name": "Carmen Lamas",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12842/6831/"
+  },
+  {
+   "name": "Hannah Loeb",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.97",
+   "path": "/course/12842/11485/"
+  },
+  {
+   "name": "John Nemec",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "1.0",
+   "diff": "4.3",
+   "gpa": "3.66",
+   "path": "/course/12842/2490/"
+  },
+  {
+   "name": "Geeta Patel",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "4.00",
+   "path": "/course/12842/2518/"
+  },
+  {
+   "name": "John Piller",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "2.0",
+   "gpa": "\u2014",
+   "path": "/course/12842/14069/"
+  },
+  {
+   "name": "Mary Robinson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.96",
+   "path": "/course/12842/11489/"
+  },
+  {
+   "name": "Charlotte Rogers",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12842/6485/"
+  },
+  {
+   "name": "Matias Stark",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12842/12377/"
+  },
+  {
+   "name": "Philip Tite",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.2",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12842/13156/"
+  },
+  {
+   "name": "Richard Will",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.98",
+   "path": "/course/12842/1969/"
+  },
+  {
+   "name": "Ran Zhao",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.90",
+   "path": "/course/12842/493/"
+  },
+  {
+   "name": "Eric Ramirez-Weaver",
+   "last": "Fall 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12842/126/"
+  },
+  {
+   "name": "Anastasia Dakouri-Hild",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.0",
+   "diff": "1.5",
+   "gpa": "3.88",
+   "path": "/course/12842/6498/"
+  },
+  {
+   "name": "Kevin Duong",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.92",
+   "path": "/course/12842/8478/"
+  },
+  {
+   "name": "Mehr Farooqi",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "2.0",
+   "diff": "2.0",
+   "gpa": "3.80",
+   "path": "/course/12842/2519/"
+  },
+  {
+   "name": "Rita Felski",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.0",
+   "gpa": "3.92",
+   "path": "/course/12842/3421/"
+  },
+  {
+   "name": "Liza Flood",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.3",
+   "diff": "3.0",
+   "gpa": "3.90",
+   "path": "/course/12842/12499/"
+  },
+  {
+   "name": "Martien Halvorson-Taylor",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.5",
+   "diff": "1.0",
+   "gpa": "3.77",
+   "path": "/course/12842/2501/"
+  },
+  {
+   "name": "Elizabeth Harper",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.3",
+   "diff": "2.0",
+   "gpa": "3.92",
+   "path": "/course/12842/904/"
+  },
+  {
+   "name": "Israel Klich",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.92",
+   "path": "/course/12842/2243/"
+  },
+  {
+   "name": "Matthew Martello",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.3",
+   "gpa": "3.99",
+   "path": "/course/12842/8161/"
+  },
+  {
+   "name": "Meghan O'Donoghue",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.97",
+   "path": "/course/12842/11039/"
+  },
+  {
+   "name": "Michael Puri",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.3",
+   "diff": "2.0",
+   "gpa": "3.90",
+   "path": "/course/12842/1966/"
+  },
+  {
+   "name": "Bridget Reilly",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.2",
+   "diff": "1.0",
+   "gpa": "3.96",
+   "path": "/course/12842/10429/"
+  },
+  {
+   "name": "Marc Santugini",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12842/12487/"
+  },
+  {
+   "name": "Andreja Siliunas",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12842/13422/"
+  },
+  {
+   "name": "Justin Stec",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.2",
+   "diff": "1.0",
+   "gpa": "3.90",
+   "path": "/course/12842/8167/"
+  },
+  {
+   "name": "Michele Zaccagnini",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.3",
+   "diff": "2.0",
+   "gpa": "3.97",
+   "path": "/course/12842/7849/"
+  },
+  {
+   "name": "Lydia Brown",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.89",
+   "path": "/course/12842/10437/"
+  },
+  {
+   "name": "Paul Dobryden",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "1.3",
+   "diff": "2.0",
+   "gpa": "3.79",
+   "path": "/course/12842/6920/"
+  },
+  {
+   "name": "Andrew Ferguson",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.1",
+   "diff": "1.2",
+   "gpa": "3.91",
+   "path": "/course/12842/1118/"
+  },
+  {
+   "name": "Caleb Hendrickson",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12842/6262/"
+  },
+  {
+   "name": "Michelle Kisliuk",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "2.5",
+   "diff": "1.0",
+   "gpa": "3.82",
+   "path": "/course/12842/1917/"
+  },
+  {
+   "name": "Farzaneh Milani",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.4",
+   "diff": "2.0",
+   "gpa": "3.58",
+   "path": "/course/12842/2115/"
+  },
+  {
+   "name": "Christa Robbins",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.4",
+   "diff": "2.7",
+   "gpa": "3.93",
+   "path": "/course/12842/6302/"
+  },
+  {
+   "name": "Jessica Swoboda",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.95",
+   "path": "/course/12842/10430/"
+  },
+  {
+   "name": "William Wylie",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12842/213/"
+  },
+  {
+   "name": "Jiajun Yan",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "1.3",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12842/7474/"
+  },
+  {
+   "name": "Natasha Heller",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12842/6999/"
+  },
+  {
+   "name": "Deborah Parker",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "2.0",
+   "diff": "2.7",
+   "gpa": "3.93",
+   "path": "/course/12842/2909/"
+  },
+  {
+   "name": "Matthew Skwiat",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.85",
+   "path": "/course/12842/12646/"
+  },
+  {
+   "name": "Wendy Smith",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "3.3",
+   "diff": "3.0",
+   "gpa": "3.90",
+   "path": "/course/12842/8128/"
+  },
+  {
+   "name": "Katelyn Wood",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "4.7",
+   "diff": "4.0",
+   "gpa": "3.67",
+   "path": "/course/12842/6871/"
+  },
+  {
+   "name": "Erik Fredner",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "3.7",
+   "diff": "3.0",
+   "gpa": "3.90",
+   "path": "/course/12842/12036/"
+  },
+  {
+   "name": "Sophia Bamert",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.84",
+   "path": "/course/12842/12035/"
+  },
+  {
+   "name": "Kateri DuBay",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12842/5706/"
+  },
+  {
+   "name": "Elizabeth Flood",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.7",
+   "gpa": "3.84",
+   "path": "/course/12842/6205/"
+  },
+  {
+   "name": "Jasmine Hu",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.3",
+   "diff": "1.0",
+   "gpa": "3.89",
+   "path": "/course/12842/11681/"
+  },
+  {
+   "name": "Jane Mikkelson",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "2.7",
+   "diff": "1.0",
+   "gpa": "3.99",
+   "path": "/course/12842/7493/"
+  },
+  {
+   "name": "Faculty Staff",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12842/6002/"
+  },
+  {
+   "name": "Adrienne Ghaly",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "2.3",
+   "diff": "1.0",
+   "gpa": "3.78",
+   "path": "/course/12842/8124/"
+  },
+  {
+   "name": "Mona Kasra",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.69",
+   "path": "/course/12842/6328/"
+  },
+  {
+   "name": "Emily Ogden",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "3.1",
+   "diff": "2.7",
+   "gpa": "3.79",
+   "path": "/course/12842/4754/"
+  }
+ ],
+ "1520": [
+  {
+   "name": "To Announced",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "4.8",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12843/12448/"
+  },
+  {
+   "name": "Caleb Hendrickson",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12843/6262/"
+  },
+  {
+   "name": "Roberto Armengol",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.65",
+   "path": "/course/12843/3274/"
+  },
+  {
+   "name": "Evan Brubaker",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.92",
+   "path": "/course/12843/7654/"
+  },
+  {
+   "name": "Rebecca Bultman",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.97",
+   "path": "/course/12843/12408/"
+  },
+  {
+   "name": "David Cantor-Echols",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12843/14072/"
+  },
+  {
+   "name": "Stephen Caviness",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12843/14071/"
+  },
+  {
+   "name": "Ruslan Elistratov",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "4.00",
+   "path": "/course/12843/7222/"
+  },
+  {
+   "name": "Amanda Gibson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.92",
+   "path": "/course/12843/7910/"
+  },
+  {
+   "name": "Charlie Gleek",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.97",
+   "path": "/course/12843/12705/"
+  },
+  {
+   "name": "Anca Glont-Ulfhrafn",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12843/14073/"
+  },
+  {
+   "name": "Elise Heffernan",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.99",
+   "path": "/course/12843/11034/"
+  },
+  {
+   "name": "Benedict Lenhart",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.90",
+   "path": "/course/12843/11325/"
+  },
+  {
+   "name": "Jennifer Morse",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.3",
+   "diff": "2.0",
+   "gpa": "3.92",
+   "path": "/course/12843/6959/"
+  },
+  {
+   "name": "Brian Paljug",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12843/14361/"
+  },
+  {
+   "name": "Sabrina Pendergrass",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.87",
+   "path": "/course/12843/4021/"
+  },
+  {
+   "name": "Leonid Petrov",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.78",
+   "path": "/course/12843/5801/"
+  },
+  {
+   "name": "Dinko Pocanic",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.87",
+   "path": "/course/12843/2192/"
+  },
+  {
+   "name": "Bridget Reilly",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.95",
+   "path": "/course/12843/10429/"
+  },
+  {
+   "name": "Sarah Richardson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12843/13289/"
+  },
+  {
+   "name": "Jelena Samonina",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12843/8030/"
+  },
+  {
+   "name": "David Singerman",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.97",
+   "path": "/course/12843/7216/"
+  },
+  {
+   "name": "Dan Spitzner",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "1.3",
+   "diff": "2.0",
+   "gpa": "3.81",
+   "path": "/course/12843/2630/"
+  },
+  {
+   "name": "Elizabeth Taylor",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.92",
+   "path": "/course/12843/14074/"
+  },
+  {
+   "name": "Xin Tong",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12843/5964/"
+  },
+  {
+   "name": "Claire Wrigley",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "2.0",
+   "gpa": "3.92",
+   "path": "/course/12843/13690/"
+  },
+  {
+   "name": "Gillet Rosenblith",
+   "last": "Fall 2025",
+   "times": "",
+   "rating": "4.2",
+   "diff": "1.2",
+   "gpa": "3.95",
+   "path": "/course/12843/4652/"
+  },
+  {
+   "name": "Max Castorani",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12843/7778/"
+  },
+  {
+   "name": "Johanna Chajes",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12843/11940/"
+  },
+  {
+   "name": "Erin Clabough",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.8",
+   "diff": "1.3",
+   "gpa": "3.88",
+   "path": "/course/12843/8346/"
+  },
+  {
+   "name": "Ali Guler",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12843/5560/"
+  },
+  {
+   "name": "Adria LaViolette",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.90",
+   "path": "/course/12843/10335/"
+  },
+  {
+   "name": "Sara Maloni",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.5",
+   "gpa": "3.95",
+   "path": "/course/12843/6958/"
+  },
+  {
+   "name": "Ken Ono",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.99",
+   "path": "/course/12843/8273/"
+  },
+  {
+   "name": "Sean Reid",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.5",
+   "gpa": "3.88",
+   "path": "/course/12843/12168/"
+  },
+  {
+   "name": "Lauren Simkins",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.88",
+   "path": "/course/12843/7777/"
+  },
+  {
+   "name": "Jennie Williams",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.0",
+   "diff": "2.0",
+   "gpa": "3.93",
+   "path": "/course/12843/12647/"
+  },
+  {
+   "name": "Lingyu Yang",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.97",
+   "path": "/course/12843/13691/"
+  },
+  {
+   "name": "Michele Zaccagnini",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.86",
+   "path": "/course/12843/7849/"
+  },
+  {
+   "name": "James Coan",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.9",
+   "diff": "1.6",
+   "gpa": "3.91",
+   "path": "/course/12843/507/"
+  },
+  {
+   "name": "Jessica Connelly",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.8",
+   "diff": "1.7",
+   "gpa": "3.81",
+   "path": "/course/12843/1007/"
+  },
+  {
+   "name": "Kelly Dunham",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12843/13264/"
+  },
+  {
+   "name": "Erik Fredner",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.8",
+   "diff": "2.3",
+   "gpa": "3.87",
+   "path": "/course/12843/12036/"
+  },
+  {
+   "name": "Fiona Greenland",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.7",
+   "diff": "4.0",
+   "gpa": "3.81",
+   "path": "/course/12843/7592/"
+  },
+  {
+   "name": "Thomas Koberda",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.4",
+   "diff": "1.3",
+   "gpa": "\u2014",
+   "path": "/course/12843/6558/"
+  },
+  {
+   "name": "John Mclaren",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12843/8083/"
+  },
+  {
+   "name": "Jessica Niblo",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12843/12648/"
+  },
+  {
+   "name": "Bo Odom",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.8",
+   "diff": "1.3",
+   "gpa": "\u2014",
+   "path": "/course/12843/11469/"
+  },
+  {
+   "name": "Olivier Pfister",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.92",
+   "path": "/course/12843/2251/"
+  },
+  {
+   "name": "Amanda Phillips",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "2.0",
+   "diff": "2.0",
+   "gpa": "3.75",
+   "path": "/course/12843/6016/"
+  },
+  {
+   "name": "Ishani Saraf",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12843/12649/"
+  },
+  {
+   "name": "Breanne Weber",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12843/13263/"
+  },
+  {
+   "name": "Natasha Heller",
+   "last": "Fall 2023",
+   "times": "",
+   "rating": "2.7",
+   "diff": "1.0",
+   "gpa": "3.93",
+   "path": "/course/12843/6999/"
+  },
+  {
+   "name": "John Handel",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12843/12037/"
+  },
+  {
+   "name": "Angeline Lillard",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "2.2",
+   "diff": "2.5",
+   "gpa": "3.75",
+   "path": "/course/12843/514/"
+  },
+  {
+   "name": "Justin McBrien",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12843/11515/"
+  },
+  {
+   "name": "Jessie Stern",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "3.0",
+   "diff": "2.5",
+   "gpa": "\u2014",
+   "path": "/course/12843/11572/"
+  },
+  {
+   "name": "Laura Goldblatt",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.87",
+   "path": "/course/12843/1079/"
+  },
+  {
+   "name": "Sarah Kucenas",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "4.3",
+   "diff": "1.0",
+   "gpa": "3.84",
+   "path": "/course/12843/347/"
+  },
+  {
+   "name": "James Morris",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.88",
+   "path": "/course/12843/515/"
+  },
+  {
+   "name": "Louis Bloomfield",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12843/2190/"
+  },
+  {
+   "name": "Priya Date",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "3.4",
+   "diff": "1.5",
+   "gpa": "3.87",
+   "path": "/course/12843/8127/"
+  },
+  {
+   "name": "Matt Elia",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12843/12038/"
+  },
+  {
+   "name": "Kelsey Johnson",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.7",
+   "diff": "5.0",
+   "gpa": "3.54",
+   "path": "/course/12843/236/"
+  },
+  {
+   "name": "William Pearson",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "1.3",
+   "diff": "4.3",
+   "gpa": "3.49",
+   "path": "/course/12843/2735/"
+  },
+  {
+   "name": "Sarah Teets",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.9",
+   "diff": "1.8",
+   "gpa": "3.89",
+   "path": "/course/12843/4815/"
+  },
+  {
+   "name": "Faculty Staff",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12843/6002/"
+  },
+  {
+   "name": "Adrienne Ghaly",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.90",
+   "path": "/course/12843/8124/"
+  },
+  {
+   "name": "Austin Keeler",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "4.7",
+   "diff": "2.0",
+   "gpa": "4.00",
+   "path": "/course/12843/11468/"
+  },
+  {
+   "name": "Mark Whittle",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "2.0",
+   "diff": "3.5",
+   "gpa": "\u2014",
+   "path": "/course/12843/8013/"
+  }
+ ],
+ "1530": [
+  {
+   "name": "To Announced",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "5.0",
+   "diff": "2.0",
+   "gpa": "\u2014",
+   "path": "/course/12844/12448/"
+  },
+  {
+   "name": "Alaa Abdelghaffar",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.5",
+   "gpa": "3.99",
+   "path": "/course/12844/14076/"
+  },
+  {
+   "name": "Rebecca Bultman",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.5",
+   "diff": "1.0",
+   "gpa": "3.97",
+   "path": "/course/12844/12408/"
+  },
+  {
+   "name": "Mrinalini Chakravorty",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.89",
+   "path": "/course/12844/956/"
+  },
+  {
+   "name": "Brandon Edwards",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.90",
+   "path": "/course/12844/13692/"
+  },
+  {
+   "name": "Olya Feldberg",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12844/11820/"
+  },
+  {
+   "name": "Gertrude Fraser",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12844/94/"
+  },
+  {
+   "name": "Kimberly Harris",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.2",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12844/12739/"
+  },
+  {
+   "name": "Matthew Hedstrom",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.86",
+   "path": "/course/12844/39/"
+  },
+  {
+   "name": "Nizar Hermes",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "4.00",
+   "path": "/course/12844/6306/"
+  },
+  {
+   "name": "Andrew Jacobs",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12844/14079/"
+  },
+  {
+   "name": "Ben Jameson-Ellsmore",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12844/13693/"
+  },
+  {
+   "name": "Vikram Jaswal",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "3.0",
+   "gpa": "3.98",
+   "path": "/course/12844/511/"
+  },
+  {
+   "name": "Morgan Jennings",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/14075/"
+  },
+  {
+   "name": "Kelly Kaelin",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.86",
+   "path": "/course/12844/14078/"
+  },
+  {
+   "name": "Stella Mattioli",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/4836/"
+  },
+  {
+   "name": "Peter Miller",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.84",
+   "path": "/course/12844/6350/"
+  },
+  {
+   "name": "Maria Monteros-Freeman",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12844/7877/"
+  },
+  {
+   "name": "Robyn Morse",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "2.1",
+   "diff": "2.3",
+   "gpa": "3.72",
+   "path": "/course/12844/11509/"
+  },
+  {
+   "name": "Eyleen O'Rourke",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "1.2",
+   "diff": "4.0",
+   "gpa": "3.88",
+   "path": "/course/12844/6035/"
+  },
+  {
+   "name": "Rachel Potter",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12844/5820/"
+  },
+  {
+   "name": "Sean Reid",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.90",
+   "path": "/course/12844/12168/"
+  },
+  {
+   "name": "Anne Rotich",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/6496/"
+  },
+  {
+   "name": "Muhammad Safdar",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.94",
+   "path": "/course/12844/11569/"
+  },
+  {
+   "name": "Lisa Shutt",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "3.0",
+   "gpa": "3.88",
+   "path": "/course/12844/1333/"
+  },
+  {
+   "name": "Wendy Smith",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.8",
+   "diff": "2.0",
+   "gpa": "3.91",
+   "path": "/course/12844/8128/"
+  },
+  {
+   "name": "Lean Sweeney",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.95",
+   "path": "/course/12844/8219/"
+  },
+  {
+   "name": "Sarena Tien",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.3",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12844/14077/"
+  },
+  {
+   "name": "Shilpa Dave",
+   "last": "Fall 2025",
+   "times": "",
+   "rating": "3.2",
+   "diff": "1.7",
+   "gpa": "3.85",
+   "path": "/course/12844/4699/"
+  },
+  {
+   "name": "David Walsh",
+   "last": "Fall 2025",
+   "times": "",
+   "rating": "3.9",
+   "diff": "1.8",
+   "gpa": "3.86",
+   "path": "/course/12844/11472/"
+  },
+  {
+   "name": "Claire Wrigley",
+   "last": "Fall 2025",
+   "times": "",
+   "rating": "5.0",
+   "diff": "2.0",
+   "gpa": "4.00",
+   "path": "/course/12844/13690/"
+  },
+  {
+   "name": "Zvi Gilboa",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "1.0",
+   "diff": "4.3",
+   "gpa": "3.89",
+   "path": "/course/12844/3494/"
+  },
+  {
+   "name": "Jennifer Greeson",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.8",
+   "diff": "1.0",
+   "gpa": "4.00",
+   "path": "/course/12844/40/"
+  },
+  {
+   "name": "Alice King",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.0",
+   "gpa": "3.86",
+   "path": "/course/12844/11057/"
+  },
+  {
+   "name": "Lauren Mehfoud",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.8",
+   "diff": "1.0",
+   "gpa": "3.95",
+   "path": "/course/12844/7602/"
+  },
+  {
+   "name": "Lisa Reilly",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.7",
+   "diff": "3.0",
+   "gpa": "3.98",
+   "path": "/course/12844/123/"
+  },
+  {
+   "name": "Muhammad Tayyab Safdar",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/13882/"
+  },
+  {
+   "name": "Sandhya Shukla",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "4.1",
+   "diff": "1.3",
+   "gpa": "3.93",
+   "path": "/course/12844/38/"
+  },
+  {
+   "name": "Rachel Wahl",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12844/5891/"
+  },
+  {
+   "name": "Meaghan Walsh",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12844/10331/"
+  },
+  {
+   "name": "Tracey Wang",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12844/8153/"
+  },
+  {
+   "name": "Eben Yonnetti",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.7",
+   "diff": "3.0",
+   "gpa": "3.92",
+   "path": "/course/12844/11166/"
+  },
+  {
+   "name": "Josephine Adams",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.89",
+   "path": "/course/12844/10428/"
+  },
+  {
+   "name": "Allison Bigelow",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "2.8",
+   "diff": "2.5",
+   "gpa": "3.67",
+   "path": "/course/12844/5832/"
+  },
+  {
+   "name": "Liza Flood",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/12499/"
+  },
+  {
+   "name": "Marcy Linton",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.1",
+   "diff": "1.0",
+   "gpa": "3.96",
+   "path": "/course/12844/648/"
+  },
+  {
+   "name": "Anne Mahler",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12844/7008/"
+  },
+  {
+   "name": "Christian McMillen",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.3",
+   "diff": "3.0",
+   "gpa": "3.90",
+   "path": "/course/12844/46/"
+  },
+  {
+   "name": "Ishani Saraf",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12844/12649/"
+  },
+  {
+   "name": "Jalane Schmidt",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "1.7",
+   "diff": "3.1",
+   "gpa": "3.63",
+   "path": "/course/12844/2504/"
+  },
+  {
+   "name": "James Seitz",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.8",
+   "diff": "1.0",
+   "gpa": "3.96",
+   "path": "/course/12844/4761/"
+  },
+  {
+   "name": "Matthew Skwiat",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12844/12646/"
+  },
+  {
+   "name": "Alexander Wolfson",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "2.7",
+   "diff": "3.0",
+   "gpa": "3.95",
+   "path": "/course/12844/11471/"
+  },
+  {
+   "name": "Francesca Calamita",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "3.7",
+   "diff": "2.0",
+   "gpa": "3.81",
+   "path": "/course/12844/5915/"
+  },
+  {
+   "name": "Inger Kuin",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.94",
+   "path": "/course/12844/8034/"
+  },
+  {
+   "name": "John Handel",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.81",
+   "path": "/course/12844/12037/"
+  },
+  {
+   "name": "Lisa Woolfork",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.76",
+   "path": "/course/12844/10/"
+  },
+  {
+   "name": "Swayam Bagaria",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.7",
+   "diff": "2.0",
+   "gpa": "3.90",
+   "path": "/course/12844/11470/"
+  },
+  {
+   "name": "Sophia Bamert",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12844/12035/"
+  },
+  {
+   "name": "Herbert Braun",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.8",
+   "diff": "2.0",
+   "gpa": "3.88",
+   "path": "/course/12844/1463/"
+  },
+  {
+   "name": "Elizabeth Flood",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12844/6205/"
+  },
+  {
+   "name": "Jasmine Hu",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.98",
+   "path": "/course/12844/11681/"
+  },
+  {
+   "name": "Foteini Kondyli",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.3",
+   "diff": "3.0",
+   "gpa": "3.72",
+   "path": "/course/12844/5850/"
+  },
+  {
+   "name": "Karl Shuve",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "3.7",
+   "diff": "4.0",
+   "gpa": "3.84",
+   "path": "/course/12844/3675/"
+  },
+  {
+   "name": "Faculty Staff",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/6002/"
+  },
+  {
+   "name": "Jane Mikkelson",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "4.6",
+   "diff": "1.0",
+   "gpa": "3.95",
+   "path": "/course/12844/7493/"
+  },
+  {
+   "name": "Ricardo Padron",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "5.0",
+   "diff": "2.0",
+   "gpa": "3.81",
+   "path": "/course/12844/3715/"
+  },
+  {
+   "name": "Nichole Flores",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "2.3",
+   "diff": "3.0",
+   "gpa": "3.74",
+   "path": "/course/12844/6580/"
+  },
+  {
+   "name": "Bruce Williams",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12844/1531/"
+  }
+ ],
+ "1540": [
+  {
+   "name": "To Announced",
+   "last": "Spring 2027",
+   "times": "",
+   "rating": "3.8",
+   "diff": "1.7",
+   "gpa": "\u2014",
+   "path": "/course/12845/12448/"
+  },
+  {
+   "name": "T.C.A Achintya",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12845/14081/"
+  },
+  {
+   "name": "Kathryn Babineau",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.97",
+   "path": "/course/12845/11180/"
+  },
+  {
+   "name": "Chance Bonar",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.82",
+   "path": "/course/12845/14082/"
+  },
+  {
+   "name": "Erik Braun",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.92",
+   "path": "/course/12845/6577/"
+  },
+  {
+   "name": "Evan Brubaker",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "2.0",
+   "gpa": "3.88",
+   "path": "/course/12845/7654/"
+  },
+  {
+   "name": "Creighton Coleman",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.92",
+   "path": "/course/12845/10223/"
+  },
+  {
+   "name": "Tom Donahue-Ochoa",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "2.4",
+   "diff": "2.0",
+   "gpa": "3.95",
+   "path": "/course/12845/13694/"
+  },
+  {
+   "name": "Keith Driver",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.7",
+   "diff": "2.0",
+   "gpa": "3.97",
+   "path": "/course/12845/5742/"
+  },
+  {
+   "name": "Brandon Edwards",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12845/13692/"
+  },
+  {
+   "name": "Lilian Feitosa",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.98",
+   "path": "/course/12845/4359/"
+  },
+  {
+   "name": "Andrew Ferguson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.6",
+   "diff": "1.7",
+   "gpa": "3.91",
+   "path": "/course/12845/1118/"
+  },
+  {
+   "name": "Amanda Gibson",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.91",
+   "path": "/course/12845/7910/"
+  },
+  {
+   "name": "Laura Goldblatt",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.3",
+   "diff": "2.0",
+   "gpa": "3.79",
+   "path": "/course/12845/1079/"
+  },
+  {
+   "name": "Eric Hilker",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.0",
+   "gpa": "3.91",
+   "path": "/course/12845/7583/"
+  },
+  {
+   "name": "Sarah Jenkins",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12845/8424/"
+  },
+  {
+   "name": "Bernice Krakani",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.96",
+   "path": "/course/12845/14080/"
+  },
+  {
+   "name": "Erica Krause",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.3",
+   "diff": "2.0",
+   "gpa": "3.94",
+   "path": "/course/12845/11525/"
+  },
+  {
+   "name": "Matthew Martello",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12845/8161/"
+  },
+  {
+   "name": "Sarah Milov",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.81",
+   "path": "/course/12845/5772/"
+  },
+  {
+   "name": "Ian Mullins",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "2.0",
+   "diff": "3.0",
+   "gpa": "3.88",
+   "path": "/course/12845/8367/"
+  },
+  {
+   "name": "Anne Persons",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.95",
+   "path": "/course/12845/11490/"
+  },
+  {
+   "name": "Andrej Petrovic",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12845/6923/"
+  },
+  {
+   "name": "Gillet Rosenblith",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.97",
+   "path": "/course/12845/4652/"
+  },
+  {
+   "name": "Jessica Swoboda",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "1.0",
+   "gpa": "3.97",
+   "path": "/course/12845/10430/"
+  },
+  {
+   "name": "Philip Tite",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.88",
+   "path": "/course/12845/13156/"
+  },
+  {
+   "name": "Catherine Walden",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.0",
+   "diff": "2.0",
+   "gpa": "3.97",
+   "path": "/course/12845/14083/"
+  },
+  {
+   "name": "David Walsh",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "3.5",
+   "diff": "1.5",
+   "gpa": "3.91",
+   "path": "/course/12845/11472/"
+  },
+  {
+   "name": "Heather Warren",
+   "last": "Spring 2026",
+   "times": "",
+   "rating": "4.7",
+   "diff": "2.0",
+   "gpa": "\u2014",
+   "path": "/course/12845/2499/"
+  },
+  {
+   "name": "Benjamin Bernard",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.3",
+   "diff": "3.0",
+   "gpa": "3.89",
+   "path": "/course/12845/12650/"
+  },
+  {
+   "name": "Christopher Choi",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.3",
+   "diff": "2.0",
+   "gpa": "3.99",
+   "path": "/course/12845/10220/"
+  },
+  {
+   "name": "Jason Evans",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.0",
+   "gpa": "\u2014",
+   "path": "/course/12845/11171/"
+  },
+  {
+   "name": "Caleb Hendrickson",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.88",
+   "path": "/course/12845/6262/"
+  },
+  {
+   "name": "Cherrie Kwok",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "1.9",
+   "diff": "2.0",
+   "gpa": "\u2014",
+   "path": "/course/12845/8156/"
+  },
+  {
+   "name": "Deborah McGrady",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "3.4",
+   "diff": "2.5",
+   "gpa": "3.86",
+   "path": "/course/12845/2869/"
+  },
+  {
+   "name": "Walter Ott",
+   "last": "Spring 2025",
+   "times": "",
+   "rating": "1.4",
+   "diff": "4.3",
+   "gpa": "3.36",
+   "path": "/course/12845/4317/"
+  },
+  {
+   "name": "Erin Eaker",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.7",
+   "diff": "2.0",
+   "gpa": "3.89",
+   "path": "/course/12845/6314/"
+  },
+  {
+   "name": "Aynne Kokas",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.5",
+   "gpa": "3.95",
+   "path": "/course/12845/5803/"
+  },
+  {
+   "name": "Inger Kuin",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.3",
+   "diff": "1.0",
+   "gpa": "3.89",
+   "path": "/course/12845/8034/"
+  },
+  {
+   "name": "Emily Mellen",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "5.0",
+   "diff": "1.0",
+   "gpa": "3.96",
+   "path": "/course/12845/7508/"
+  },
+  {
+   "name": "Mary Nickel",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.0",
+   "gpa": "3.84",
+   "path": "/course/12845/13265/"
+  },
+  {
+   "name": "Brian Owensby",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.0",
+   "diff": "3.5",
+   "gpa": "3.69",
+   "path": "/course/12845/1466/"
+  },
+  {
+   "name": "Angel Parham",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "3.7",
+   "diff": "1.0",
+   "gpa": "3.87",
+   "path": "/course/12845/12154/"
+  },
+  {
+   "name": "Brooks Pate",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12845/485/"
+  },
+  {
+   "name": "Kevin Rose",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12845/7584/"
+  },
+  {
+   "name": "Sandra Seidel",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "4.1",
+   "diff": "1.0",
+   "gpa": "3.90",
+   "path": "/course/12845/298/"
+  },
+  {
+   "name": "Vasfiye Toprak",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.94",
+   "path": "/course/12845/10570/"
+  },
+  {
+   "name": "Michael Wellmon",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "2.2",
+   "diff": "2.8",
+   "gpa": "3.69",
+   "path": "/course/12845/2899/"
+  },
+  {
+   "name": "Bruce Williams",
+   "last": "Spring 2024",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.63",
+   "path": "/course/12845/1531/"
+  },
+  {
+   "name": "Matt Elia",
+   "last": "Fall 2023",
+   "times": "",
+   "rating": "4.0",
+   "diff": "3.0",
+   "gpa": "\u2014",
+   "path": "/course/12845/12038/"
+  },
+  {
+   "name": "James Henry",
+   "last": "Fall 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.83",
+   "path": "/course/12845/7581/"
+  },
+  {
+   "name": "Talbot Brewer",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "4.0",
+   "diff": "2.0",
+   "gpa": "3.72",
+   "path": "/course/12845/2152/"
+  },
+  {
+   "name": "Cassandra Fraser",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "3.2",
+   "diff": "1.5",
+   "gpa": "3.75",
+   "path": "/course/12845/482/"
+  },
+  {
+   "name": "Seung-Hun Lee",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.74",
+   "path": "/course/12845/2246/"
+  },
+  {
+   "name": "Karl Shuve",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.93",
+   "path": "/course/12845/3675/"
+  },
+  {
+   "name": "Janet Spittler",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.84",
+   "path": "/course/12845/5967/"
+  },
+  {
+   "name": "Sarah Teets",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "2.7",
+   "diff": "2.0",
+   "gpa": "3.90",
+   "path": "/course/12845/4815/"
+  },
+  {
+   "name": "Alexander Wolfson",
+   "last": "Spring 2023",
+   "times": "",
+   "rating": "4.5",
+   "diff": "2.5",
+   "gpa": "3.97",
+   "path": "/course/12845/11471/"
+  },
+  {
+   "name": "Jacqueline Arthur-Montagne",
+   "last": "Fall 2022",
+   "times": "",
+   "rating": "4.8",
+   "diff": "3.0",
+   "gpa": "3.98",
+   "path": "/course/12845/12077/"
+  },
+  {
+   "name": "Swayam Bagaria",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "4.0",
+   "diff": "1.0",
+   "gpa": "3.83",
+   "path": "/course/12845/11470/"
+  },
+  {
+   "name": "Benjamin Bennett",
+   "last": "Spring 2022",
+   "times": "",
+   "rating": "1.9",
+   "diff": "2.7",
+   "gpa": "3.55",
+   "path": "/course/12845/1357/"
+  },
+  {
+   "name": "Faculty Staff",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "\u2014",
+   "path": "/course/12845/6002/"
+  },
+  {
+   "name": "Rebecca Stangl",
+   "last": "Fall 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.65",
+   "path": "/course/12845/2129/"
+  },
+  {
+   "name": "Jack Chen",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "4.7",
+   "diff": "2.0",
+   "gpa": "3.90",
+   "path": "/course/12845/6854/"
+  },
+  {
+   "name": "Nichole Flores",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "\u2014",
+   "diff": "\u2014",
+   "gpa": "3.74",
+   "path": "/course/12845/6580/"
+  },
+  {
+   "name": "Kevin Lehmann",
+   "last": "Spring 2021",
+   "times": "",
+   "rating": "3.0",
+   "diff": "1.0",
+   "gpa": "3.74",
+   "path": "/course/12845/477/"
+  }
+ ]
+}
